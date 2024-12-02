@@ -1,3 +1,3 @@
-# 7008mt
+# 7008machine translation
 #indonesian to english
 #indonesian to javanese
